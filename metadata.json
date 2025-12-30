@@ -1,0 +1,7 @@
+{
+  "name": "人机安全验证",
+  "description": "轻量级、隐私优先的人脸表情验证码系统，包含活体检测序列（微笑 -> 眨眼）。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
